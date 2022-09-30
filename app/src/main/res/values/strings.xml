@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="please_click_back_again_to_exit">Press back again to EXIT</string>
+    \\
+    <!--SIGNUP-->
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="verfication_discription">please verify your email and note that relaunching or closing app without verifying email will void signup progress</string>
+    <string name="please_click_back_again_to_cancel">please click back again to cancel signup</string>
+
+    <!--SIGN-IN-->
+    <string name="sign_in_description_text">Enter your email and password to continue</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <!--LOADING-->
+    <string name="please_wait">Please Wait!</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_description_text">Enter your email to get reset link</string>
+    <string name="default_web_id">298441008350-t2vpousftq25slsh58emllco8o5823t1.apps.googleusercontent.com</string>
+    <string name="my_profile">My Profile</string>
+    <string name="reward">Reward</string>
+</resources>
